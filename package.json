@@ -43,7 +43,7 @@
     "node-telegram-bot-api": "^0.50.0",
     "poloniex.js": "1.0.1",
     "postcss-loader": "^3.0.0",
-    "pushbullet": "2.4.0",
+    "pushbullet": "3.0.0",
     "quadrigacx": "0.0.7",
     "resolve-url-loader": "^3.1.1",
     "sass-loader": "^8.0.2",
