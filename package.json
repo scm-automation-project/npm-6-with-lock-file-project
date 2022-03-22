@@ -14,7 +14,7 @@
     "https-proxy-agent": "2.2.1",
     "apollo-server-express": "2.8.1",
     "apollo-server-core": "2.8.1",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "request": "2.9.203",
     "property-expr": "1.5.1",
     "utile": "0.1.0",
