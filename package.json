@@ -23,7 +23,7 @@
     "validator": "^9.1.1",
     "express": "^4.17.1",
     "puppeteer-core": "~1.12.0",
-    "adamant-api": "^0.5.3",
+    "adamant-api": "^1.0.0",
     "babel-loader": "^8.1.0",
     "babel-preset-env": "^1.6.1",
     "bitfinex-api-node": "^4.0.15",
